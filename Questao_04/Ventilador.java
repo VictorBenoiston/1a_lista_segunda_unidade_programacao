@@ -1,5 +1,4 @@
 package testaventilador;
-
     public class Ventilador {
     private String marca;
     private String modelo;
@@ -48,7 +47,5 @@ package testaventilador;
     // Construtor 02:
     Ventilador(int nova_velocidade){
         velocidade = nova_velocidade;
+    }    
     }
-    
-    }
-

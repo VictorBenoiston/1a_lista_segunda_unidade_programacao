@@ -10,9 +10,5 @@ public class TestaVentilador {
         v1.aumentarVelocidade(3);
         v1.desligar();
         v2.desligar();
-
     }
-    
-    
-    
 }
